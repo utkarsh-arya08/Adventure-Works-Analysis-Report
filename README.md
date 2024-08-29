@@ -1,6 +1,7 @@
 # Adventure-Works-Analysis-Report
 
-### 🎯 Objective: The goal was to create an interactive and insightful tool that enables Adventure Works Cycles to monitor and enhance their sales strategies by identifying key trends and performance metrics across different regions, products, and customer segments.
+### 🎯 Objective: 
+The goal was to create an interactive and insightful tool that enables Adventure Works Cycles to monitor and enhance their sales strategies by identifying key trends and performance metrics across different regions, products, and customer segments.
 
 ## PowerBI Dashboard View:
 ![Sales Analysis Dashboard](https://github.com/user-attachments/assets/89debcbe-8d3d-4f6d-b7a6-8ecd88b9e9d5)
