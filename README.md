@@ -3,7 +3,7 @@
 ### 🎯 Objective: 
 The goal was to create an interactive and insightful tool that enables Adventure Works Cycles to monitor and enhance their sales strategies by identifying key trends and performance metrics across different regions, products, and customer segments.
 
-## PowerBI Dashboard View:
+## PowerBI Dashboard key insights:
 ![Sales Analysis Dashboard](https://github.com/user-attachments/assets/89debcbe-8d3d-4f6d-b7a6-8ecd88b9e9d5)
   * Year-wise Growth: 2013 was a standout year with the highest sales at 16.35M, reflecting effective sales strategies.
   * Month-wise Performance: December saw peak sales (₹3.2M), driven by seasonal promotions, while February had the lowest, suggesting a need for targeted campaigns during off-peak months.
