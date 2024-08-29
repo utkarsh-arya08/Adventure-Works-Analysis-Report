@@ -16,5 +16,6 @@ The goal was to create an interactive and insightful tool that enables Adventure
 
 ![Product Analysis Dashboard](https://github.com/user-attachments/assets/b4c9125b-30c0-4342-8a33-ae2013f47f00)
 
-### 💼 Business Impact: These dashboards empower Adventure Works Cycles with actionable insights, enabling data-driven decisions that can enhance profitability, optimize product offerings, and strategically expand into underperforming regions.
+### 💼 Business Impact: 
+These dashboards empower Adventure Works Cycles with actionable insights, enabling data-driven decisions to enhance profitability, optimize product offerings, and strategically expand into underperforming regions.
 
