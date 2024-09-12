@@ -1,4 +1,6 @@
 # Adventure-Works-Analysis-Report
+## PROJECT OVERVIEW:
+This data analytics project aims to analyze Adventure Works sales data to uncover patterns, trends, and insights that can improve Overall sales Regional performance, Identify sales trends, and target customer strategies. The project focuses on key performance indicators (KPIs) that provide a detailed understanding of sales behaviours across different segments.
 
 ### 🎯 Objective: 
 The goal was to create an interactive and insightful tool that enables Adventure Works Cycles to monitor and enhance their sales strategies by identifying key trends and performance metrics across different regions, products, and customer segments.
@@ -18,4 +20,8 @@ The goal was to create an interactive and insightful tool that enables Adventure
 
 ### 💼 Business Impact: 
 These dashboards empower Adventure Works Cycles with actionable insights, enabling data-driven decisions to enhance profitability, optimize product offerings, and strategically expand into underperforming regions.
+
+## Tableau Report View:
+![Screenshot 2024-09-10 133304](https://github.com/user-attachments/assets/6f5663ec-bf3e-40b9-8923-e872e590fd90)
+![Screenshot 2024-09-12 083702](https://github.com/user-attachments/assets/348bb79c-e3d7-421c-ad2f-aa23a4a1883c)
 
